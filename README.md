@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohd-nihal-965525243/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cpcbhOcEuapb0SOIf-kE8yD9t43qwKe9/view?usp=drive_link]((https://drive.google.com/file/d/1mJIY6K1mjle6f70wz7tzMZMx7nyROopR/view))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cpcbhOcEuapb0SOIf-kE8yD9t43qwKe9/view?usp=drive_link](([https://drive.google.com/file/d/1mJIY6K1mjle6f70wz7tzMZMx7nyROopR/view](https://drive.google.com/file/d/1mJIY6K1mjle6f70wz7tzMZMx7nyROopR/view)))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
