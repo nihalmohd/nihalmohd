@@ -2,7 +2,6 @@
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 - 📫 How to reach me **https://www.linkedin.com/in/mohd-nihal-965525243/**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1mJIY6K1mjle6f70wz7tzMZMx7nyROopR/view**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,9 +10,9 @@
 <a href="https://leetcode.com/NihalNih/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/NihalNih/" height="30" width="40" />
 </a>
-<!-- <a href="https://twitter.com/MohdNih60491115" target="_blank">
+<a href="https://twitter.com/MohdNih60491115" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a> -->
+</a>
 </p>
 
 
