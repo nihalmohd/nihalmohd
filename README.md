@@ -11,9 +11,9 @@
 <a href="https://leetcode.com/NihalNih/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/NihalNih/" height="30" width="40" />
 </a>
-<a href="https://twitter.com/MohdNih60491115" target="_blank">
+<!-- <a href="https://twitter.com/MohdNih60491115" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
+</a> -->
 </p>
 
 
